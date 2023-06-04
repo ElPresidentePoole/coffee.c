@@ -1,0 +1,5 @@
+#+title: Readme
+
+* coffee.c
+
+This is the web server I wrote to remotely control a coffee maker via a Raspberry Pi clone.  I make no promises that this software uses the best practices, as network programming is hard and this server will /not/ be publicly accessible (i.e. no one outside the LAN will access it).  I don't know why this would happen, but *please do not use this in production.*
